@@ -1,9 +1,6 @@
 # arc3.1
 
-A mirror of arc3.1.tar, the latest public release of Arc as of 11 Sep 2015
-
-The original arc3.1.tar can be downloaded [here](https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar).
-
+A mirror of [arc3.1.tar](https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar), the latest public release of Arc as of 11 Sep 2015
 
 ```
 $ wget https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar
