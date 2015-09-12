@@ -1,6 +1,5 @@
-# laarc/arc3.1
 
-A mirror of [arc3.1.tar](https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar), the latest release of Arc as of 11 Sep 2015
+Mirror of [arc3.1.tar](https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar), the latest release of Arc as of 11 Sep 2015
 
 See also:
 
