@@ -2,6 +2,8 @@
 
 A mirror of [arc3.1.tar](https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar), the latest public release of Arc as of 11 Sep 2015
 
+arc0 vs arc3.1: [html](https://rawgit.com/laarc/notebook/master/arc0-3.1.html) | [txt](https://rawgit.com/laarc/notebook/master/arc0-3.1.txt)
+
 ```
 $ wget https://github.com/laarc/arc3.1/releases/download/1/arc3.1.tar
 
